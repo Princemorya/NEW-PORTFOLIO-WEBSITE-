@@ -1,0 +1,6 @@
+{
+  "name": "Prince Mourya Portfolio",
+  "description": "An interactive, highly responsive developer portfolio for Prince Mourya, featuring an AI resume assistant, project gallery, search, dark mode, and a technical blog.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
